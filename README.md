@@ -4,7 +4,7 @@
   🔹demo video
     https://www.youtube.com/watch?v=uC_HDgc2rOk
   
-  🔹improved demo video
+  🔹improved demo video (偵測物件是否存在)
     https://youtu.be/Fpp3zMXUIco
   
   🔹simulation video
