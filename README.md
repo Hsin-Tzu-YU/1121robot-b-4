@@ -34,7 +34,7 @@
       若按下按鈕則可以暫停，如恆亮則持續執行吸取指令
       
   🔹demo video
-
+    https://youtu.be/qJJRKkaPEbM
   🔹simulation video
     https://youtu.be/rQu9swlRH6k
 
