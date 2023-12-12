@@ -1,6 +1,7 @@
 # 👋TeamB-4 HOW DO WE DID
 ## 🌱Basic Task 1: Pick-n-Place Criterion
-  
+ ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg).
+
   🔹demo video
     https://www.youtube.com/watch?v=uC_HDgc2rOk
   
