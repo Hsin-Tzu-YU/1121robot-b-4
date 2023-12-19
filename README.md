@@ -41,9 +41,9 @@
       2. 當按下橘色按鈕則執行吸取方形元件指令
       3. 若熄滅按鈕則可以暫停，如恆亮則持續執行吸取指令
 
-      
-      
-   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="500px" width="700px" />      
+          
+   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="500px" width="700px" />     
+   
   🔹demo video
     https://youtu.be/qJJRKkaPEbM
     
