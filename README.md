@@ -8,7 +8,7 @@
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="600px" width="400px" />
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/messageImage_1702975732824.jpg" height="500px" width="800px"    
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/messageImage_1702975732824.jpg" height="500px" width="800px">   
   🔹 Task1 說明    
 
     step1: 吸取圓形及方形物件至第二定點，並且判斷取料區是否有物件可以吸取
