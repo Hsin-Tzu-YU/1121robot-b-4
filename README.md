@@ -72,8 +72,8 @@
   🔹simulation video
     https://youtu.be/tB1uePA5Lgc
         
-## 🌱Task 3 結合I/O按鈕執行吸取圓形及方形元件堆疊至指定位置
-  ![image](https://github.com/gujingde/gujingde/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20040012.png)
+## 🌱Task 3  堆疊 + I/O整合任務(結合I/O按鈕執行吸取圓形及方形元件堆疊至指定位置) 
+![image](https://github.com/gujingde/gujingde/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20040012.png)
 
   🐾Task3 說明   
   
