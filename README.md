@@ -45,6 +45,11 @@
     
 ## 🌱Basic Task 2: Stack-up Criterion
   ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20133143.png)
+
+🐾Task2 說明   
+   1. 取料區吸取圓形/方形物件
+   2. 移至第二定點交錯擺放
+   
   
    ⌛測試時間
    
@@ -74,7 +79,7 @@
 
   📈Task3 Flow Chat
   
-   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="450px" width="650px" />     
+   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="350px" width="550px" />     
 
    
   🔹demo video
