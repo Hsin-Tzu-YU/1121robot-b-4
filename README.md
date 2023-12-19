@@ -17,10 +17,15 @@
     
   ⌛測試時間
      速度30%  1min1sec
+     
      速度40%  52sec
+     
      速度50%  46sec
+     
      速度60%  42sec
+     
      速度70%  40sec
+     
      速度80%  38sec
   🔹demo video
     https://www.youtube.com/watch?v=uC_HDgc2rOk
@@ -35,10 +40,15 @@
   ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20133143.png).
    ⌛測試時間
       速度30%  58sec
+      
       速度50%  50sec
+      
       速度60%  46sec
+      
       速度70%  42sec
+      
       速度80%  40sec
+      
   🔹demo video
     https://www.youtube.com/watch?v=LIREwSrFIX4
     
