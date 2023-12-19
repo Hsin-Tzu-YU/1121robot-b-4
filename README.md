@@ -9,14 +9,17 @@
 ## 🌱Basic Task 1: Pick-n-Place Criterion
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="600px" width="400px" />
 
-  🔹Task1 Flow Chat
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="400px" width="800px">   
-
-  🔹 Task1 說明    
+🐾Task1 說明    
 
     step1: 吸取圓形及方形物件至第二定點，並且判斷取料區是否有物件可以吸取
     step2: 將吸取的物件移至第二定點放置，並使物件對齊第二定點邊界
     step3: 將物件從第二定點移至第三定點，並依照相對應的形狀及物件順序擺放
+    
+
+
+  📈Task1 Flow Chat
+  
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="350px" width="800px">   
     
  ⌛測試時間
  
@@ -64,13 +67,15 @@
 ## 🌱Task 3 結合I/O按鈕執行吸取圓形及方形元件堆疊至指定位置
   ![image](https://github.com/gujingde/gujingde/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20040012.png)
 
-
+  🐾Task3 說明   
       1. 當按下綠色按鈕則執行吸取圓形元件指令
       2. 當按下橘色按鈕則執行吸取方形元件指令
       3. 若熄滅按鈕則可以暫停，如恆亮則持續執行吸取指令
 
-  🔹Task3 Flow Chat
+  📈Task3 Flow Chat
+  
    <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="450px" width="650px" />     
+
    
   🔹demo video
     https://youtu.be/qJJRKkaPEbM
