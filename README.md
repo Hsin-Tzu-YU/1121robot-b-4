@@ -1,9 +1,7 @@
 # 👋TeamB-4 HOW DO WE DID
 ## 🙋成員
    M11251016	古晶德 智慧製造碩一 B-4
-   
    M11251017	蔡善琪 智慧製造碩一 B-4
-   
    M11251023	游昕慈 智慧製造碩一 B-4
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
