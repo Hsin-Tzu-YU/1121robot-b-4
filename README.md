@@ -24,6 +24,7 @@
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="350px" width="800px">   
     
  ⌛測試時間
+    * 實驗以不同速度觀察Task1的作業時間，當速度提高80%，整體作業時間最快可到38秒。
  
      速度30%  1min1sec
      
@@ -57,6 +58,7 @@
    
   
    ⌛測試時間
+      * 實驗以不同速度觀察Task2的作業時間，當速度提高80%，整體作業時間最快可到40秒。
    
       速度30%  58sec
       
