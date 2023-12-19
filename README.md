@@ -19,7 +19,7 @@
 
   📈Task1 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="250px" width="700px">   
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="400px" width="800px">   
     
  ⌛測試時間
  
