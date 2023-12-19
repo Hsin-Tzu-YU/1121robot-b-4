@@ -57,7 +57,7 @@
 
   📈Task2 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96%20(2).png" height="450px" width="800px">   
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96%20(2).png" height="400px" width="750px">   
 
 
   
