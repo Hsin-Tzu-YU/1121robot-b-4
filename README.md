@@ -8,7 +8,7 @@
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
  ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg)
- <img src="(https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg)" height="240px" width="160px" />
+ <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="240px" width="160px" />
     
   🔹 Task1 說明    
 
