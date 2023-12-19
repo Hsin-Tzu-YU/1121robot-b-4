@@ -43,9 +43,7 @@
 
       
       
-   ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png)
-   
-   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="400px" width="600px" />      
+   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="500px" width="700px" />      
   🔹demo video
     https://youtu.be/qJJRKkaPEbM
     
