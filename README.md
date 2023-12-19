@@ -8,7 +8,10 @@
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="600px" width="400px" />
+
+  🔹Task1 Flow Chat
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="400px" width="800px">   
+
   🔹 Task1 說明    
 
     step1: 吸取圓形及方形物件至第二定點，並且判斷取料區是否有物件可以吸取
@@ -66,6 +69,7 @@
       2. 當按下橘色按鈕則執行吸取方形元件指令
       3. 若熄滅按鈕則可以暫停，如恆亮則持續執行吸取指令
 
+  🔹Task3 Flow Chat
    <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="450px" width="650px" />     
    
   🔹demo video
