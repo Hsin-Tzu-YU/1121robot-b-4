@@ -54,6 +54,11 @@
    
       2.移至第二定點交錯擺放
 
+  📈Task1 Flow Chat
+  
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2.png" height="500px" width="500px">   
+
+
   
    ⌛測試時間
    
