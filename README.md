@@ -54,9 +54,9 @@
    
       2.移至第二定點交錯擺放
 
-  📈Task1 Flow Chat
+  📈Task2 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2.png" height="500px" width="500px">   
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="600px" width="400px">   
 
 
   
