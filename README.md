@@ -35,13 +35,13 @@
    |速度70% |40sec|
    |速度80% |38sec|
    
-  🔹demo video
+  🎥Demo video
     https://www.youtube.com/watch?v=uC_HDgc2rOk
   
-  🔹improved demo video (偵測物件是否存在)
+  🎥Improved demo video (偵測物件是否存在)
     [https://youtu.be/Fpp3zMXUIco](https://youtu.be/RmE2hJIVLPA)
   
-  🔹simulation video
+  🎥Simulation video
     https://youtu.be/UZjdhSku-7U
     
 ## 🌱Basic Task 2: Stack-up Criterion
@@ -67,10 +67,10 @@
       |速度70% | 42sec|
       |速度80% | 40sec|
       
-  🔹demo video
+  🎥Demo video
     https://www.youtube.com/watch?v=LIREwSrFIX4
     
-  🔹simulation video
+  🎥Simulation video
     https://youtu.be/tB1uePA5Lgc
         
 ## 🌱Task 3  堆疊 + I/O整合任務(結合I/O按鈕執行吸取圓形及方形元件堆疊至指定位置) 
@@ -89,9 +89,9 @@
    <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="350px" width="550px" />     
 
    
-  🔹demo video
+  🎥Demo video
     https://youtu.be/qJJRKkaPEbM
     
-  🔹simulation video
+  🎥Simulation video
     https://youtu.be/rQu9swlRH6k
 
