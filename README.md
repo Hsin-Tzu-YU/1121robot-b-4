@@ -21,7 +21,7 @@
 
   📈Task1 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="350px" width="800px">   
+  <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="350px" width="800px">   
     
  ⌛測試時間
  - 實驗以不同速度觀察Task1的作業時間，當速度提高80%時，整體作業時間最快可在38秒完成。
@@ -57,7 +57,7 @@
 
   📈Task2 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96%20(2).png" height="400px" width="750px">   
+  <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96%20(2).png" height="400px" width="800px">   
 
 
   
@@ -92,7 +92,7 @@
 
   📈Task3 Flow Chat
   
-   <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="350px" width="550px" />     
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3_1.png" height="350px" width="800px" />     
 
   🎥Demo video
     https://youtu.be/qJJRKkaPEbM
