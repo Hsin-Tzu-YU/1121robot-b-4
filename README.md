@@ -46,7 +46,8 @@
     https://youtu.be/UZjdhSku-7U
     
 ## 🌱Basic Task 2: Stack-up Criterion
-  ![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20133143.png)
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-28%20133143.png" height="300px" width="500px">  
+
 
    🐾Task2 說明   
 
@@ -56,7 +57,7 @@
 
   📈Task2 Flow Chat
   
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="400px" width="600px">   
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task2%E6%B5%81%E7%A8%8B%E5%9C%96%20(2).png" height="450px" width="800px">   
 
 
   
