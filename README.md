@@ -7,7 +7,7 @@
    M11251023 游昕慈 智慧製造碩一
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="600px" width="400px" />
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="500px" width="300px" />
 
 🐾Task1 說明    
 
@@ -24,16 +24,17 @@
 <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1.png" height="350px" width="800px">   
     
  ⌛測試時間
- - 實驗以不同速度觀察Task1的作業時間，當速度提高80%，整體作業時間最快可到38秒。
+ - 實驗以不同速度觀察Task1的作業時間，當速度提高80%時，整體作業時間最快可在38秒完成。
        
    | 速度|時間|
-   | ------------- |:-------------:|
+   | --- |---|
    |速度30% |1min1sec|
    |速度40% |52sec|
    |速度50% |46sec|
    |速度60% |42sec|
    |速度70% |40sec|
    |速度80% |38sec|
+
    
   🎥Demo video
     https://www.youtube.com/watch?v=uC_HDgc2rOk
@@ -53,20 +54,19 @@
    
       2.移至第二定點交錯擺放
 
-   
   
    ⌛測試時間
    
-   - 實驗以不同速度觀察Task2的作業時間，當速度提高80%，整體作業時間最快可到40秒。
+   - 實驗以不同速度觀察Task2的作業時間，當速度提高80%時，整體作業時間最快可在40秒完成。
          
-      | 速度        | 時間          |
-      | ------------- |:-------------:|
+      | 速度 |時間|
+      | --- |---|
       |速度30% | 58sec|
       |速度50% | 50sec|
       |速度60% | 46sec|
       |速度70% | 42sec|
       |速度80% | 40sec|
-      
+ 
   🎥Demo video
     https://www.youtube.com/watch?v=LIREwSrFIX4
     
@@ -88,7 +88,6 @@
   
    <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task3%E6%B5%81%E7%A8%8B%E5%9C%96.png" height="350px" width="550px" />     
 
-   
   🎥Demo video
     https://youtu.be/qJJRKkaPEbM
     
