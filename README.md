@@ -1,4 +1,4 @@
-# 👋TeamB-4 HOW DO WE DID
+# 👋TeamB-4 HOW DO WE DO
 ## 🙋成員
    M11251016 古晶德 智慧製造碩一
    
