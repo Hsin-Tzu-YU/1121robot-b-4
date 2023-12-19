@@ -7,7 +7,7 @@
    M11251023 游昕慈 智慧製造碩一
    
 ## 🌱Basic Task 1: Pick-n-Place Criterion
-<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="500px" width="300px" />
+<img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/66A3C586-42F5-4057-883B-8D4C6D33A601.jpg" height="400px" width="300px" />
 
 🐾Task1 說明    
 
