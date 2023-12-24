@@ -21,7 +21,7 @@
 
   📈Task1 Flow Chat
   
-  <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1_FC.png" height="300px" width="1000px">   
+  <img src="https://github.com/Hsin-Tzu-YU/1121robot-b-4/blob/main/Task1_FC.png" height="300px" width="950px">   
     
  ⌛測試時間
  - 實驗以不同速度觀察Task1的作業時間，當速度提高80%時，整體作業時間最快可在38秒完成。
