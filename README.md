@@ -1,4 +1,4 @@
-# 👋TeamB-4 HOW DO WE DO
+![image](https://github.com/Hsin-Tzu-YU/1121robot-b-4/assets/152851613/2236efc3-68d2-443d-9dda-5ceb3abb49e8)# 👋TeamB-4 HOW DO WE DO
 ## 🙋成員
    M11251016 古晶德 智慧製造碩一
    
@@ -11,11 +11,11 @@
 
 🐾Task1 說明    
 
-    step1: 吸取圓形及方形物件至第二定點，並且判斷取料區是否有物件可以吸取
+    step1: 吸取圓形及方形物件至Fixture，並且使用氣壓量測判斷Feeder是否有物件可以吸取
     
-    step2: 將吸取的物件移至第二定點放置，並使物件對齊第二定點邊界
+    step2: 將吸取的物件移至Fixture放置，並使物件對齊Fixture的邊界
     
-    step3: 將物件從第二定點移至第三定點，並依照相對應的形狀及物件順序擺放
+    step3: 將物件從Fixture移至Tray，並依照相對應的形狀及物件順序擺放
     
 
 
@@ -53,7 +53,7 @@
 
       1.取料區吸取圓形/方形物件
    
-      2.移至第二定點交錯擺放
+      2.移至Fixture交錯擺放
 
   📈Task2 Flow Chat
   
